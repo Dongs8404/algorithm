@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Algorithm\\C\\Algorithm_010\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BF4FCF-7046-45C8-819F-83C7B57E6D42}|Algorithm_010.vcxproj|D:\\Algorithm\\C\\Algorithm_010\\Algorithm_010.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69BF4FCF-7046-45C8-819F-83C7B57E6D42}|Algorithm_010.vcxproj|solutionrelative:Algorithm_010.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Algorithm_010.c",
+              "DocumentMoniker": "D:\\Algorithm\\C\\Algorithm_010\\Algorithm_010.c",
+              "RelativeDocumentMoniker": "Algorithm_010.c",
+              "ToolTip": "D:\\Algorithm\\C\\Algorithm_010\\Algorithm_010.c",
+              "RelativeToolTip": "Algorithm_010.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-22T23:25:43.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
